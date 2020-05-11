@@ -1,8 +1,9 @@
+
 import React from "react";
-import Nav from "./Nav";
-import Footer from "./Footer";
+import Nav from "./Components//Nav";
+import Footer from "./Components/Footer";
 import './App.css';
-import Logo from "./Logo";
+import Logo from "./Components//Logo";
 
 function App() {
   return (

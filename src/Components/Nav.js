@@ -1,8 +1,8 @@
 import React from 'react';
 import {Route} from 'react-router';
 import {HashRouter, NavLink}from 'react-router-dom'
-import Home from './Home'
-import Features from './Features';
+import Home from '../Pages/Home'
+import Features from '../Pages/Features';
 
 class Nav extends React.Component {
     render() {    
